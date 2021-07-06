@@ -18,6 +18,8 @@ public class Practice11 {
 		System.out.println("Name : Malli");
 		System.out.println("Name : Bukkala");
 		System.out.println("Phno : 9014815689");
+		System.out.println("Phno : Location");
+		System.out.println("Phno : HYD");
 
 	}
 
