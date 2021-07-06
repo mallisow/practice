@@ -16,6 +16,8 @@ public class Practice11 {
 		
 		System.out.println("Emp details are below");
 		System.out.println("Name : Malli");
+		System.out.println("Name : Bukkala");
+		System.out.println("Phno : 9014815689");
 
 	}
 
